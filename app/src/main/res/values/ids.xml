@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Name1" type="id">Name1</item>
+    <item name="Name2" type="id">Name2</item>
+    <item name="tv1" type="id">tv1</item>
+    <item name="tv2" type="id">tv2</item>
+    <item name="svmain" type="id">svmain</item>
+    <item name="button2323" type="id">button2323</item>
+    <item name="imageViewFonyc" type="id">imageViewFonyc</item>
+    <item name="storyTitle" type="id">storyTitle</item>
+    <item name="pubdate" type="id">pubdate</item>
+    <item name="largeImage" type="id">largeImage</item>
+    <item name="description" type="id">description</item>
+</resources>
